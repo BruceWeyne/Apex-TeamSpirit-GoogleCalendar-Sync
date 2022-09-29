@@ -1,4 +1,4 @@
-TeamSpirit Google Calendar Sync. Project
+TeamSpirit Google Calendar Sync.
 ===
 TeamSpirit での休暇申請を Google カレンダーへ同期させる
 
